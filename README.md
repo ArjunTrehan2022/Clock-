@@ -1,2 +1,2 @@
-# Clock-
+# Clock
 Displays the current time 
